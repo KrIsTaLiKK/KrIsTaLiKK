@@ -5,7 +5,7 @@ I'm a Junior Frontend Developer. I'm going to learn React Native and Node.Js
 
 * 🌍  I'm based in South America
 * ✉️  You can contact me at [zkristal95@gmail.com](mailto:zkristal95@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Node.js
 * ⚡  In love with what I do
 
 ### Skills
